@@ -11,6 +11,3 @@ Dievas is a 3D Software Renderer created with Vulkan. The goal of Dievas is to p
 
 ## Requirements
 To compile and use Dievas, you need the [Vulkan SDK](https://www.lunarg.com/products/vulkan-sdk/) and [CMake](https://cmake.org/). All other required Third Party Libraries are provided in the repository. The CMake project will automatically locate Vulkan SDK on your machine, so the only thing you need to build Dievas is to [build](https://cmake.org/cmake/help/latest/guide/tutorial/Before%20You%20Begin.html#try-it-out) the project with CMake.
-
-## License
-Dievas is free to use, edit and copy, as long as the usage falls under the [Happy Bunny License](https://github.com/TohveliDev/Dievas/blob/main/LICENSE).
