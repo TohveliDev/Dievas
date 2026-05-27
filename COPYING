@@ -1,0 +1,11 @@
+Two independent works are being distributed along with Dievas that fall
+under different licenses. The licenses that applies to the different
+files are listed here:
+
+Software             Directory                 License
+-------------------------------------------------------------------
+Dievas               src/engine                MIT
+Dievas editor        src/editor                Beerware
+
+The full text of each license is provided in the files LICENSE.MIT
+and LICENSE.BW.
