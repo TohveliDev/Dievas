@@ -1,4 +1,6 @@
-# Dievas
+![logo](docs/logo_text.png)
+
+## About
 Dievas is a 3D Software Renderer created with Vulkan. The goal of Dievas is to provide a simple to use 3D editor, that does not require any specialized hardware for raytracing, as the raytracing logic is calculated and rendered on the CPU. Dievas is built to be the perfect balance between performance and quality.
 
 ## Features
